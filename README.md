@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**BavarajuVinay/BavarajuVinay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Bavaraju Venkata Naga Durga Vinay!
 
-Here are some ideas to get you started:
+## 🔭 I’m currently working on:
+- My final year BTech project: A smart glasses project to enhance mobility for visually impaired individuals with voice assistance and GPS integration.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently learning:
+- Advanced concepts in machine learning and deep learning.  
+- Improving my skills in Machine Learning, Deep Learning and full-stack web development.  
+
+## 👯 I’m looking to collaborate on:
+- Projects involving machine learning, IoT, and full-stack development.  
+
+## 🤔 I’m looking for help with:
+- Enhancing features for my smart glasses project to improve user experience.  
+
+## 💬 Ask me about:
+- My experiences with Smart Factory Automation from my internship at NIT Warangal.  
+- Developing web applications and bots using PHP, JavaScript, and Python.  
+
+## 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/vinay-bavaraju/)  
+- [Email](mailto:bavarajuvinay@gmail.com)  
+
