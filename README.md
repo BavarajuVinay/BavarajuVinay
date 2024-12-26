@@ -12,9 +12,6 @@
 ## 👯 I’m looking to collaborate on:
 - Projects involving machine learning, IoT, and full-stack development.  
 
-## 🤔 I’m looking for help with:
-- Enhancing features for my smart glasses project to improve user experience.  
-
 ## 💬 Ask me about:
 - My experiences with Smart Factory Automation from my internship at NIT Warangal.  
 - Developing web applications and bots using PHP, JavaScript, and Python.  
