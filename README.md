@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there 👋, I'm Bavaraju Venkata Naga Durga Vinay!
 
 ## 🔭 I’m currently working on:
