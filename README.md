@@ -1,22 +1,17 @@
 ## Hi there 👋, I'm Bavaraju Venkata Naga Durga Vinay!
 
-### I’m currently working on:
-- A smart glasses project to enhance mobility for visually impaired individuals with voice assistance and GPS integration.  
+### 🔭 Working on:
+- Smart glasses for visually impaired individuals with voice assistance and GPS.
 
-### I’m currently learning:
-- Advanced concepts in machine learning and deep learning.  
-- Improving my skills in Machine Learning, Deep Learning and full-stack web development.  
+### 🌱 Learning:
+- Machine Learning, Deep Learning, and Full-Stack Development.
 
-### I’m looking to collaborate on:
-- Projects involving machine learning, IoT, and full-stack development.  
+### 💬 Ask me about:
+- Smart Factory Automation (NIT Warangal Internship).
+- Web apps and bots using PHP, JavaScript, and Python.
 
-### Ask me about:
-- My experiences with Smart Factory Automation from my internship at NIT Warangal.  
-- Developing web applications and bots using PHP, JavaScript, and Python.  
-
-### How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/vinay-bavaraju/)  
-- [Email](mailto:bavarajuvinay@gmail.com)
+### 📫 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/vinay-bavaraju/)  [Email](mailto:bavarajuvinay@gmail.com)
 
 - ![BavarajuVinay's Stats](https://github-readme-stats.vercel.app/api?username=BavarajuVinay&theme=cobalt&show_icons=true&hide_border=true&count_private=true)
 
