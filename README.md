@@ -16,5 +16,7 @@
 
 ### How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/vinay-bavaraju/)  
-- [Email](mailto:bavarajuvinay@gmail.com)  
+- [Email](mailto:bavarajuvinay@gmail.com)
+
+- ![BavarajuVinay's Stats](https://github-readme-stats.vercel.app/api?username=BavarajuVinay&theme=cobalt&show_icons=true&hide_border=true&count_private=true)
 
