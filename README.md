@@ -19,3 +19,5 @@
 
 ### 📊 GitHub Stats:
 ![BavarajuVinay's Stats](https://github-readme-stats.vercel.app/api?username=BavarajuVinay&theme=vue&show_icons=true&hide_border=true&count_private=true)
+
+![BavarajuVinay's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BavarajuVinay&theme=vue&hide_border=true)
